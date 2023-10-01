@@ -1,0 +1,57 @@
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.AssemblyReference.cache
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.Form1.resources
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.GenerateResource.cache
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.AssemblyInfoInputs.cache
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.AssemblyInfo.cs
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.CoreCompileInputs.cache
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.exe
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.deps.json
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.runtimeconfig.json
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.dll
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.pdb
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.dll
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.xml
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.xml
+C:\DATA KULIAH\PBKK\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.DirectShow.xml
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.CopyComplete
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.dll
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\refint\webcamp.dll
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.pdb
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.genruntimeconfig.cache
+C:\DATA KULIAH\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\ref\webcamp.dll
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.Form1.resources
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.GenerateResource.cache
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.AssemblyInfoInputs.cache
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.AssemblyInfo.cs
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.CoreCompileInputs.cache
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.dll
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\refint\webcamp.dll
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.pdb
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.exe
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.deps.json
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.runtimeconfig.json
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.dll
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\webcamp.pdb
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.dll
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.xml
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.xml
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\bin\Debug\net6.0-windows\AForge.Video.DirectShow.xml
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.AssemblyReference.cache
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.Form1.resources
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.GenerateResource.cache
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.AssemblyInfoInputs.cache
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.AssemblyInfo.cs
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.CoreCompileInputs.cache
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.csproj.CopyComplete
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.dll
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\refint\webcamp.dll
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.pdb
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\webcamp.genruntimeconfig.cache
+C:\DATA KULIAH\MATKUL JURUSAN\webcamp\webcamp\obj\Debug\net6.0-windows\ref\webcamp.dll

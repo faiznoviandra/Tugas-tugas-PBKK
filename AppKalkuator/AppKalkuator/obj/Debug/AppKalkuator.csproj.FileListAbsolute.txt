@@ -1,0 +1,10 @@
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\bin\Debug\AppKalkuator.exe.config
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\bin\Debug\AppKalkuator.exe
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\bin\Debug\AppKalkuator.pdb
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.csproj.AssemblyReference.cache
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.Form1.resources
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.Properties.Resources.resources
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.csproj.GenerateResource.cache
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.csproj.CoreCompileInputs.cache
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.exe
+C:\DATA KULIAH\PBKK\AppKalkuator\AppKalkuator\obj\Debug\AppKalkuator.pdb
