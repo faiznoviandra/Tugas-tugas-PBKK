@@ -1,0 +1,10 @@
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\bin\Debug\animasi jam digital.exe.config
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\bin\Debug\animasi jam digital.exe
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\bin\Debug\animasi jam digital.pdb
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi jam digital.csproj.AssemblyReference.cache
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi_jam_digital.Form1.resources
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi_jam_digital.Properties.Resources.resources
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi jam digital.csproj.GenerateResource.cache
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi jam digital.csproj.CoreCompileInputs.cache
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi jam digital.exe
+C:\DATA KULIAH\MATKUL JURUSAN\PBKK\Quiz1 aimasi jam\animasi jam digital\obj\Debug\animasi jam digital.pdb
